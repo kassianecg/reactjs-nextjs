@@ -1,8 +1,8 @@
 import { Component } from 'react'
 
 import './App.css'
-
 import { Posts } from './components/Posts'
+
 import { loadPosts } from './utils/load-posts'
 
 class App extends Component {
